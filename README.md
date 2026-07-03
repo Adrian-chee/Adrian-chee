@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Adrian Chee Yee Hong 👋
 
-<!--
-**Adrian-chee/Adrian-chee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💼 Who am I?
 
-Here are some ideas to get you started:
+I'm a Business Analytics student with a passion for using data and technology to solve real-world business problems. I'm interested in Business Analytics, Artificial Intelligence, and Full-Stack Web Development, and I'm continuously learning through hands-on projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What am I currently working on?
+
+I'm currently exploring new ideas and preparing my next portfolio projects.
+
+## 🛠️ Tools & Technologies
+
+* Python
+* SQL
+* Flask
+* HTML & CSS
+* JavaScript
+* Git & GitHub
+* C++
+
+## 📫 How to reach me
+
+* LinkedIn: [*Add your LinkedIn profile link*](https://www.linkedin.com/in/adrian-chee-yee-hong-5b3241328/)
+* Email: yeehongchee@gmail.com
