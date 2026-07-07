@@ -20,5 +20,5 @@ I'm currently exploring new ideas and preparing my next portfolio projects.
 
 ## 📫 How to reach me
 
-* LinkedIn: [*Add your LinkedIn profile link*](https://www.linkedin.com/in/adrian-chee-yee-hong-5b3241328/)
+* LinkedIn: [https://www.linkedin.com/in/adrian-chee-yee-hong-5b3241328/](https://www.linkedin.com/in/adrian-chee-yee-hong-5b3241328/) 
 * Email: yeehongchee@gmail.com
